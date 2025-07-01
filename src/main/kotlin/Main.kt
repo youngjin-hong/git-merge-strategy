@@ -10,5 +10,4 @@ fun main() {
     println("commit 3")
     println("commit 4")
     println("Hello World!")
-    println("base change")
 }
